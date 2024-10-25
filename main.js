@@ -1,6 +1,7 @@
 // Reusable Functions Part 1
 
 // Take an array of numbers and return the sum.
+// Take an array of numbers and return the average.
 const numArray = [1, 2, 3, 4, 5];
 function sumAvg() {
   let sum = 0;
@@ -13,8 +14,8 @@ function sumAvg() {
   console.log(avg);
 
     
-// Take an array of numbers and return the average.
-function avArr() {}
+
+
 // Take an array of strings and return the longest string.
 
 // Take an array of strings, and a number and return an array of the strings that are longer than the given number.
