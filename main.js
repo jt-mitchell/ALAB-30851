@@ -2,7 +2,17 @@
 
 // Take an array of numbers and return the sum.
 const numArray = [1, 2, 3, 4, 5];
-function sumArray() {}
+function sumAvg() {
+  let sum = 0;
+  let avg = 0; 
+  for (i = 0; i < numArray.length;i++){
+    sum += numArray;;
+    avg = sum / sum.length;
+  }
+   console.log(sum);
+  console.log(avg);
+
+    
 // Take an array of numbers and return the average.
 function avArr() {}
 // Take an array of strings and return the longest string.
